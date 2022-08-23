@@ -1,0 +1,8 @@
+#include "martini_v2.2.itp"
+#include "template.itp"
+
+[ system ]
+Title of the system in water
+
+[ molecules ]
+molecule_0    1
