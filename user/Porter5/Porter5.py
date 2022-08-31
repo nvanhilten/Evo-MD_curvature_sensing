@@ -1,3 +1,5 @@
+# This code contains minor adjustments to the original code that is available on https://github.com/mircare/Porter5/blob/master/Porter5.py
+
 import argparse, configparser
 import os, sys
 import time
